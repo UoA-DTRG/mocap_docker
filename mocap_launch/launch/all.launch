@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find mocap_launch)/launch/px4.launch" />
+    <include file="$(find mocap_launch)/launch/vicon.launch" />
+</launch>
