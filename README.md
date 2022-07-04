@@ -28,7 +28,7 @@ This package sets up ROS noetic, mavros, and Vicon_bridge in a docker container 
 
  Next, clone this repository
  ```
- git clone git@github.com:tlin442/mocap_docker.git
+ git clone git@github.com:UoA-DTRG/mocap_docker.git
  ```
 
  Build the docker container
